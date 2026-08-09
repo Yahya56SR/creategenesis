@@ -1,0 +1,13 @@
+name = "VS Genesis"
+filename = "genesis-1.20.1-0.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04f076bdef892b07c73f0317d9f6239eb9468d68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7923147
+project-id = 1367303
